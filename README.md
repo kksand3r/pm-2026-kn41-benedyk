@@ -14,8 +14,8 @@
 | Підгрупа | КН-41 |
 | Тема проєкту | Planning poker з історією сесій, статистикою розкиду і експортом у трекер. |
 | Варіант вхідних умов | V05 |
-| Трекер | посилання |
-| Дошка | посилання |
+| Трекер | https://benedyk-pm2026.atlassian.net/jira/software/projects/KAN/boards/1 |
+| Дошка | https://benedyk-pm2026.atlassian.net/jira/software/projects/KAN/boards/1 |
 | Валюта проєкту | для кошторису ЛР16 |
 | Contingency, % | від прямих витрат, ЛР16 |
 
