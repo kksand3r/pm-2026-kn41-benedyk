@@ -1,1 +1,6 @@
 role,fte,hours,rate,source,note
+PM,0.5,280,500,https://jobs.dou.ua/salaries/,Співвідношення до Dev на рівні ~0.9 за медіанами DOU для PM рівня Middle
+BA,0.5,280,460,https://jobs.dou.ua/salaries/,Ставка бізнес-аналітика нижча за Dev на ~18% за опитуванням DOU
+Dev,1.0,560,560,https://jobs.dou.ua/salaries/,Основна роль повної зайнятості з найвищою ставкою за медіаною DOU
+QA,0.5,280,410,https://jobs.dou.ua/salaries/,Ставка QA ~0.73 від Dev за співвідношенням DOU для Manual/General QA
+UX,0.5,280,430,https://jobs.dou.ua/salaries/,Ставка UX-дизайнера ~0.77 від Dev за опитуванням DOU

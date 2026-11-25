@@ -16,8 +16,8 @@
 | Варіант вхідних умов | V05 |
 | Трекер | https://benedyk-pm2026.atlassian.net/jira/software/projects/KAN/boards/1 |
 | Дошка | https://benedyk-pm2026.atlassian.net/jira/software/projects/KAN/boards/1 |
-| Валюта проєкту | для кошторису ЛР16 |
-| Contingency, % | від прямих витрат, ЛР16 |
+| Валюта проєкту | грн |
+| Contingency, % | 12% |
 
 ## Як влаштований репозиторій
 
