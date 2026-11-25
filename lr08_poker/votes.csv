@@ -14,6 +14,9 @@ S-04,1,pessimistic,8
 S-16,1,optimistic,2
 S-16,1,likely,5
 S-16,1,pessimistic,13
+S-17,1,optimistic,3
+S-17,1,likely,5
+S-17,1,pessimistic,13
 S-14,1,optimistic,3
 S-14,1,likely,5
 S-14,1,pessimistic,13
@@ -23,6 +26,9 @@ S-06,1,pessimistic,5
 S-10,1,optimistic,3
 S-10,1,likely,8
 S-10,1,pessimistic,13
+S-18,1,optimistic,2
+S-18,1,likely,3
+S-18,1,pessimistic,5
 S-05,1,optimistic,2
 S-05,1,likely,2
 S-05,1,pessimistic,3

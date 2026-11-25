@@ -5,3 +5,4 @@ ST-03,Викладач суміжної кафедри Agile,інша кафед
 ST-04,Студенти навчальних груп,академія,low,low,neutral,monitor,UX
 ST-05,Адміністратор сервера та ІТ-підтримка,ІТ-відділ академії,low,high,blocker,keep_satisfied,PM
 ST-06,Розробник команди (Dev 100%),команда проєкту,high,high,supporter,manage_closely,PM
+ST-07,Служба інформаційної безпеки академії,служба безпеки академії,high,high,blocker,manage_closely,PM
